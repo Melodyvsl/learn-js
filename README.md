@@ -1,2 +1,2 @@
-# me-seif
+# Learning & Practice Repo
 Educational 
